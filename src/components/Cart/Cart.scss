@@ -1,0 +1,32 @@
+.cart-container{
+    text-align: center;
+    align-items: center;
+}
+
+.remove, .clear{
+    padding: 15px 25px;
+    &:hover{background-color: black; color: white}
+    text-align: center;
+    align-items: center;
+    margin-left: 70px;
+}
+
+.carritovacio{
+    text-align: center;
+    align-items: center;
+}
+
+.comprar{
+    color: black;
+    background-color: white;
+    padding: 15px 25px;
+    &:hover{background-color: black; color: white}
+
+    text-decoration: none;
+}
+
+.iracomprar{
+    text-decoration: none;
+    text-align: center;
+    align-items: center;
+}
